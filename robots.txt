@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aakashthunderz.github.io/kairoqx.github.io/sitemap.xml
